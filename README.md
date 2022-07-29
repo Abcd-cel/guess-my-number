@@ -1,6 +1,6 @@
 # guess-my-number
-
-# made by GreyEvil999 on github  
+## gues my number python progect is here
+### made by GreyEvil999 on github  
 ```bash
 cd guess-my-number
 ```
