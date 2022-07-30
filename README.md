@@ -17,7 +17,9 @@ chmod + x gameStart.sh
 here is for windows user
 ```python
 python guess_my-number.py
-```
+```  
+
+## support
 
 
 donation metamask account - 
